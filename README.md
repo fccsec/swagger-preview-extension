@@ -24,7 +24,7 @@ A Chrome side panel extension to preview OpenAPI/Swagger docs in Swagger UI with
 
 ### From the Chrome Web Store
 
-1. Visit the [Chrome Web Store listing](#) *(link TBD after publishing)*
+1. Visit the [Chrome Web Store listing](https://chromewebstore.google.com/detail/swagger-side-preview/jldnmijhejenadheafejlokaocljhehn?authuser=0&hl=fr)
 2. Click **Add to Chrome**
 3. Click the extension icon in the toolbar to open the side panel
 
